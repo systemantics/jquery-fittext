@@ -28,7 +28,7 @@ The selected elements are required to have a height set at the time when fitText
 
 ## And it’s responsive, too!
 
-fitText is ready to be used in responsive sites. You can safely apply fitText multiple times on selected elements.
+fitText is ready to be used in responsive designs. You can safely apply fitText multiple times on selected elements.
 
 ## Troubleshooting with webfonts
 
